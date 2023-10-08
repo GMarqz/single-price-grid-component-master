@@ -125,9 +125,7 @@ strong {
 }
 
 .container__why-us {
-    
-    background-image: url(/images/Rectangle.svg);
-    background-color: var(--bright-yellow);
+    background-color: var(--cyan);
     width: 19.4375rem;
     height: 14.1875rem;
     padding: 1.5rem;
